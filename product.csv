@@ -1,0 +1,30 @@
+productid,productname,categoryid,categoryname,cost,salesprice
+174,16oz Training Gloves,C11,Gloves,50,90
+182,14oz Training Gloves,C11,Gloves,48,88
+229,12oz Training Gloves,C11,Gloves,46,86
+244,10oz Training Gloves,C11,Gloves,44,90
+321,8oz Training Gloves,C11,Gloves,44,88
+350,8oz Official Gloves,C11,Gloves,130,300
+355,10oz Official Gloves,C11,Gloves,140,300
+367,Gloves for Kids,C11,Gloves,38,60
+383,Gloves for Women,C11,Gloves,40,65
+390,12oz Amateur Official Gloves red,C11,Gloves,100,170
+407,10oz Amateur Official Gloves red,C11,Gloves,95,165
+444,12oz Amateur Official Gloves blue,C11,Gloves,100,170
+508,10oz Amateur Official Gloves blue,C11,Gloves,95,165
+219,60kg Sandbag,C12,Sandbag and Mitts ,400,550
+265,50kg Sandbag,C12,Sandbag and Mitts ,380,500
+274,Mini Sandbag,C12,Sandbag and Mitts ,240,380
+293,60kg  Long Sandbag,C12,Sandbag and Mitts ,420,600
+295,Punching Ball double,C12,Sandbag and Mitts ,200,310
+299,Punching Ball single,C12,Sandbag and Mitts ,220,350
+306,Drum mitt,C12,Sandbag and Mitts ,110,180
+359,Light Mitts,C12,Sandbag and Mitts ,90,150
+400,heavy Mitts,C12,Sandbag and Mitts ,110,180
+403,Hand Mitts,C12,Sandbag and Mitts ,70,130
+437,Stick Mitts,C12,Sandbag and Mitts ,60,110
+501,Professional Mitts,C12,Sandbag and Mitts ,150,290
+165,Official Vantage,C13,Other,12,25
+257,Training Vantage,C13,Other,8,18
+307,Mouthpiece,C13,Other,5,12
+433,Mouthpiece for Kids,C13,Other,5,10
